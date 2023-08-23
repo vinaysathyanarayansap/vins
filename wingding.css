@@ -2,7 +2,9 @@
 @font-face {
 	font-family: 'wingding';
 	src:
-		url('https://github.com/vinaysathyanarayansap/vins/raw/master/WINGDING.TTF') format('truetype');
+		url('https://michadelic.github.io/CustomFontsSAC/SAP-icons.woff2') format('woff2'),
+		url('https://michadelic.github.io/CustomFontsSAC/SAP-icons.woff') format('woff'),
+		url('https://michadelic.github.io/CustomFontsSAC/SAP-icons.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
