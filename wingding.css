@@ -1,0 +1,8 @@
+/* SAP Fiori Icons */
+@font-face {
+	font-family: 'wingding';
+	src:
+		url('https://github.com/vinaysathyanarayansap/vins/raw/master/WINGDING.TTF') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
